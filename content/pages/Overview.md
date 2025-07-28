@@ -1,4 +1,3 @@
-```markdown
 # 行业解决方案概述
 
 ## **什么是行业解决方案**
@@ -19,4 +18,3 @@
 <br/>了解详情：[https://aiot.quectel.com/businesssolutions/outdoortravel](https://aiot.quectel.com/businesssolutions/outdoortravel?language=zh)
 
 <br/>其他更多行业解决方案：[https://aiot.quectel.com](https://aiot.quectel.com?language=zh)
-```
