@@ -1,6 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import Home from '../views/Home.vue'
-import CMS from '../views/CMS.vue'
+import Home from '@/views/Home.vue'
+import CMS from '@/views/CMS.vue'
 
 /**
  * 路由配置
