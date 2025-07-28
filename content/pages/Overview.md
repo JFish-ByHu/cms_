@@ -1,3 +1,6 @@
+---
+title: 导入测试
+---
 ```markdown
 # 行业解决方案概述
 
@@ -20,3 +23,5 @@
 
 <br/>其他更多行业解决方案：[https://aiot.quectel.com](https://aiot.quectel.com?language=zh)
 ```
+
+![1](/images/images.jpg "1")
