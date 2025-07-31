@@ -29,7 +29,6 @@ export const cmsConfig = {
           label: "标题", 
           name: "title", 
           widget: "string", 
-          required: true 
         },
         {
           label: "发布日期",
